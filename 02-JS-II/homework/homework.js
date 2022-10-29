@@ -117,7 +117,7 @@ function devolverString(str) {
     // Devuelve el valor de "num" elevado al cuadrado
     // ojo: No es raiz cuadrada!
     // Tu código:
-    var Cuadrado = num * num;
+    var Cuadrado = num ** 2;
     return Cuadrado;
   }
   
